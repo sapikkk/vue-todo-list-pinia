@@ -15,7 +15,7 @@
           required
           class="todo-input"
         />
-        <button type="submit" class="add-btn">Tambah</button>
+        <button type="submit" class="add-btn">Masukkan</button>
       </form>
 
       <!-- Filter -->
