@@ -1,0 +1,27 @@
+# Log dan file sementara
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Direktori build
+dist
+dist-ssr
+
+# Dependensi
+/node_modules
+.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# File environment lokal
+.env.local
+.env.*.local
+
+# File IDE dan sistem operasi
+.DS_Store
+.idea
+.vscode/
+Thumbs.db
